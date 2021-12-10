@@ -1,0 +1,3 @@
+[submodule "Classification-PyTorch"]
+	path = classifier
+	url = https://github.com/creaiter/Classification-PyTorch.git
